@@ -7,7 +7,7 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: '/planet-01.png',
     title: 'First Project',
-    link: 'http://fastnetphbyrus.com/IslandOfParadise/'
+    link: 'https://fastnetphbyrus.com/Island/'
   },
   {
     id: 'world-2',
