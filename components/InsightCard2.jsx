@@ -33,7 +33,7 @@ const InsightCard2 = ({ imgUrl, title, school1, school2, school3 }) => (
           </li>
           <li className="py-2">
             Current College |{" "}
-            <span className="ml-2 text-[#666bc6] font-semibold">{school3}</span>
+            <span className="ml-2 text-[#df79f2] font-semibold">{school3}</span>
             | 2020 -{" "}
           </li>
         </ul>

@@ -24,7 +24,7 @@ const InsightCard3 = ({ imgUrl, title, subtitle, exp1, exp2, exp3 }) => (
         <ul className="lg:text-[18px] text-[14px] text-secondary-white mt-2 list-disc px-5">
           <li className="py-2 ml-2 text-[#8cd9fe] font-semibold">{exp1} | 2021 - 2021</li>
           <li className="py-2 ml-2 text-[#ff8265] font-semibold">{exp2} | 2022 - </li>
-          <li className="py-2 ml-2 text-[#666bc6] font-semibold">{exp3} | 2022 - </li>
+          <li className="py-2 ml-2 text-[#df79f2] font-semibold">{exp3} | 2022 - </li>
         </ul>
       </div>
     </div>
